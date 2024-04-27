@@ -3,4 +3,4 @@ This is an assembly language program (for INTEL 8088) that takes a 4-digit decim
 Starting with the given number, replace that number by the sum of the squares of its digits. Repeat the process on the replaced number until the number either equals 1 within 256 iterations of the process. The number for which this process ends in 1 within 256 iterations is called a happy number, otherwise it is called an unhappy number.
 Use any notepad app to view the code.
 # Compiler
-This was built and tested on DOSBOX.
+This was built and tested on DOSBox.
